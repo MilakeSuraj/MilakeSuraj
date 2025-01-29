@@ -1,8 +1,7 @@
 ![MasterHead](https://github.com/MilakeSuraj/Tic_Tac_Toe_Game/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Suraj Milake</h1>
 <h3 align="center">📱Mobile (Android & iOS) and Web Specialist🌐Full Stack Developer💻</h3>
-![Alt text](https://github.com/MilakeSuraj/Tic_Tac_Toe_Game/blob/main/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b.gif)
-
+![MasterHead](https://github.com/MilakeSuraj/Tic_Tac_Toe_Game/blob/main/img.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milakesuraj&label=Profile%20views&color=0e75b6&style=flat" alt="milakesuraj" /> </p>
 
