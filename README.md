@@ -4,7 +4,7 @@
 <img src="https://pin.it/3ktwhdzp3" alt="Image Description" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milakesuraj&label=Profile%20views&color=0e75b6&style=flat" alt="milakesuraj" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=milakesuraj&label=Profile%20views&color=0e75b6&style=flat" alt="milakesuraj](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)" /> </p>
 
 - 🌱 I’m currently learning **ASP.NET CORE & Angular**
 
