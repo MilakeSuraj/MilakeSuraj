@@ -1,10 +1,11 @@
 ![MasterHead](https://github.com/MilakeSuraj/Tic_Tac_Toe_Game/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Suraj Milake</h1>
 <h3 align="center">📱Mobile (Android & iOS) and Web Specialist🌐Full Stack Developer💻</h3>
-<img src="[https://pin.it/3ktwhdzp3](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)" alt="Image Description" />
+<img src="[https://i.imgur.com/yourimage.png](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)" alt="Image Description" width="500"/>
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=milakesuraj&label=Profile%20views&color=0e75b6&style=flat" alt="milakesuraj](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milakesuraj&label=Profile%20views&color=0e75b6&style=flat" alt="milakesuraj" /> </p>
 
 - 🌱 I’m currently learning **ASP.NET CORE & Angular**
 
