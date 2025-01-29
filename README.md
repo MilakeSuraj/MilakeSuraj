@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/MilakeSuraj/Tic_Tac_Toe_Game/blob/main/img.gif">
 
 <p align="left"> 
-   <img src="https://img.shields.io/badge/Profile%20Views-1.1k-blue" alt="milakesuraj" />
+   <img src="https://img.shields.io/badge/Profile%20Views-10.1k-blue" alt="milakesuraj" />
 </p>
 
 
