@@ -3,7 +3,10 @@
 <h3 align="center">📱Mobile (Android & iOS) and Web Specialist🌐Full Stack Developer💻</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/MilakeSuraj/Tic_Tac_Toe_Game/blob/main/img.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milakesuraj&label=Profile%20views&color=0e75b6&style=flat" alt="milakesuraj" /> </p>
+<p align="left"> 
+   <img src="https://img.shields.io/badge/Profile%20Views-1.1k-blue" alt="milakesuraj" />
+</p>
+
 
 - 🌱 I’m currently learning **ASP.NET CORE & Angular**
 
