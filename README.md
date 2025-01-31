@@ -7,6 +7,7 @@
    <img src="https://img.shields.io/badge/Profile%20Views-10.1k-blue" alt="milakesuraj" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=milakesuraj&label=Profile%20Views&color=blue&style=flat)
 
 - 🌱 I’m currently learning **ASP.NET CORE & Angular**
 
