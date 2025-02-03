@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **surajmilake@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1xbH5G_hFWet-YtTC_QTBbyioB9DuNqeO/view?usp=drive_link)
+- 📄 [View My Resume](https://drive.google.com/file/d/1xbH5G_hFWet-YtTC_QTBbyioB9DuNqeO/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
