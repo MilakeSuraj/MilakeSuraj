@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=milakesuraj&label=Profile%20Views&color=blue&style=flat)
 
-- 🌱 I’m currently learning **ASP.NET CORE & Angular**
+- 🌱 I’m currently working as **Fullstack Flutter Developer**
 
 - 💬 Ask me about **Flutter, Laravel,.NET**
 
