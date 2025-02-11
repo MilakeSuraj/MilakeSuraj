@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working as **Fullstack Flutter Developer**
 
-- 💬 Ask me about **Flutter, Laravel,.NET**
+- 💬 Ask me about **Flutter, Laravel, .NET**
 
 - 📫 How to reach me **surajmilake@gmail.com**
 
