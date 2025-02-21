@@ -8,13 +8,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=milakesuraj&label=Profile%20Views&color=blue&style=flat)
 
 - 🌱 I’m currently working as **Fullstack Flutter Developer**
-
+- 📄 **See My Portfolio** 👉 [Website](https://surajmilake-46a80.web.app/)
 - 💬 Ask me about **Flutter, Laravel, .NET**
 
 - 📫 How to reach me **surajmilake@gmail.com**
 
 - 📄 **See My Resume** 👉 [Resume](https://drive.google.com/file/d/1U6N_jzBUnFD_MVbcCcQGOJuBmFb5lc4W/view?usp=drive_link)
-- 📄 **See My Portfolio** 👉 [Website](https://surajmilake-46a80.web.app/)
+
 
 
 <h3 align="left">Connect with me:</h3>
